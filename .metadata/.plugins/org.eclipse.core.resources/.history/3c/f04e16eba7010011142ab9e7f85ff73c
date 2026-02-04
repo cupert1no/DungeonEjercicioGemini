@@ -1,0 +1,7 @@
+package javaBean;
+
+public class Guerrero extends Personaje implements Inventariable {
+
+	
+	
+}
